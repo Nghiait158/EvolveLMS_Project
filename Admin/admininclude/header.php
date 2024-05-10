@@ -50,7 +50,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">
+                                <a class="nav-link" href="lessons.php">
                                     <i class"fab fa-accessible-icon"></i>
                                     Lessons
                                 </a>
